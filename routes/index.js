@@ -7,7 +7,7 @@ var isAuthenticated = function(req, res, next){
     // A middleware is allowed to add properties to req and res objects
     if(req.isAuthenticated())
         return next()
-    res.redirect('/);
+    res.redirect('/');
 } 
 
 
