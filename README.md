@@ -20,3 +20,10 @@ If you would like to download the code and try it for yourself:
 4. Change out auth keys in ```config/auth.js```
 5. Launch: ```node server.js```
 6. Visit in your browser at: ```http://localhost:8080```
+
+## TODO
+
+- [ ] Add password reset
+  [Github Repo](https://github.com/tonydiep/nodejs-passport-password-reset)
+- [ ] Test Firebase authentication
+  [Github Firebase Auth](https://github.com/firebase/firebaseui-web)
